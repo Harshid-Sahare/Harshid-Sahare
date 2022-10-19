@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Harshid-Sahare
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning c++ language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me
+      harshidsahare20@gmail.com
 
 <!---
 Harshid-Sahare/Harshid-Sahare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
